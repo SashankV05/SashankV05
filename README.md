@@ -13,7 +13,4 @@ I'm Sashank , 15 year old programmer. I started programming at the age of 11 wit
 
  ![image](https://user-images.githubusercontent.com/32218136/110210658-a1e2a700-7eb8-11eb-8c1f-9c4b6d4cad07.png)
  
-## other
-![image](https://discord.c99.nl/widget/theme-3/782909992864186368.png)
-
 
