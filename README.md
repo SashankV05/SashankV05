@@ -15,3 +15,4 @@ I'm Sashank , 15 year old programmer. I started programming at the age of 11 wit
  
 ![Sashank's github stats](https://github-readme-stats.vercel.app/api?username=SashankV05)
 
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SashankV05&langs_count=8)
