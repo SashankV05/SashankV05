@@ -6,7 +6,7 @@ I'm Sashank , 15 year old programmer. I started programming at the age of 11 wit
 + 🔭 I’m currently working on<br>
   - Melon AI<br>
   - SAS OS 32 bit<br>
-  - Erza Scarlet discord bot
+
 + 📫 How to reach me: [sashankvanka@gmail.com](mailto:sashankvanka@gmail.com)<br>
 + 😄 Pronouns: he/him<br>
 ## Languages I know
