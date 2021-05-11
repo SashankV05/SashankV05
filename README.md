@@ -1,6 +1,6 @@
 hey there 👋
 --
-I'm Sashank , 15 year old programmer. I started programming at the age of 11 with a simple QBASIC project for MS-DOS.
+I'm Sashank , 16 year old programmer. I started programming at the age of 11 with a simple QBASIC project for MS-DOS.
 
 + 🌱 I’m currently learning about AI in python!<br>
 + 🔭 I’m currently working on<br>
